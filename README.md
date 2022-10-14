@@ -1,5 +1,5 @@
 # Exam-Class-App
-#Unity Application for Tesla Akademi 
+# Application for Tesla Akademi 
 
 This app define a random class for each student and write it out as a .csv file. <br />
 You can crate new classes in any size <br />
